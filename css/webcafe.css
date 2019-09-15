@@ -500,12 +500,12 @@ input[type="search"]{
     width: 250px;
 }
 .info{
-    margin-top: 10px;
+    margin: 15px 0 0 0;
     line-height: 1.5;
 }
 .news-item-thumbnail img{
-    margin-bottom: 1.5rem;
-    box-shadow: 0 15 15 0 black;
+    margin-bottom: 15px;
+    box-shadow: 0 5px 5px 0 black;
 }
 .news-header{
     font-size: 1.5rem;
